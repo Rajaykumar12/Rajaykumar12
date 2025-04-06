@@ -165,5 +165,5 @@ Let’s connect and build something awesome! 🚀
 
 _Thanks for visiting! Let’s connect and build something awesome together 🚀_
 
-![My Profile](https://i.pinimg.com/originals/8c/1b/9d/8c1b9daf0d7e26fa03649b4906ec2fc4.png))
+![My Profile](https://i.pinimg.com/originals/8c/1b/9d/8c1b9daf0d7e26fa03649b4906ec2fc4.png)
 
