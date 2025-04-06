@@ -54,12 +54,6 @@
 
 ---
 
-### 🎵 Music Streaming Website  
-> Web app to stream and discover music using the Last.fm API.  
-**Tech:** React, Tailwind CSS, Last.fm API  
-**GitHub:** [Repo Link](#)
-
----
 
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
@@ -78,6 +72,7 @@
 ### 🧾 To-Do List App  
 > Cross-platform to-do list with mobile + web versions, featuring custom reminders.  
 **Tech:** React, Django, SQLite
+> 
 **Github:**[View Project](https://github.com/Rajaykumar12/python-django-project/tree/main/todo))
 
 ---
