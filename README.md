@@ -136,7 +136,7 @@ Let’s connect and build something awesome! 🚀
 
 | 🏅 Certification | 🏢 Issued By | 📅 Date | 🔗 Link |
 |------------------|-------------|---------|--------|
-| ✅ C# Certified Developer | HackerRank | Dec 2024 | [View](https://www.freecodecamp.org/certification/RAJAYKUMAR/foundational-c-sharp-with-microsoft) |
+| ✅ C# Certified Developer | FreeCodeCamp | Aug 2024 | [View](https://www.freecodecamp.org/certification/RAJAYKUMAR/foundational-c-sharp-with-microsoft) |
 | ✅ Java Fundamentals | Infosys Springboard | Dec 2024 | [View](#)
 
 ---
