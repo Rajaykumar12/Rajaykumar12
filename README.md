@@ -144,8 +144,8 @@ Let’s connect and build something awesome! 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12e&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12e&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
