@@ -2,7 +2,7 @@
 <h3 align="center">Engineer | Web Dev Enthusiast | ML Explorer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Rajaykumar12&label=Profile%20Views&color=0e75b6&style=flat" alt="Rajaykumar12" />
 </p>
 
 ---
@@ -54,28 +54,33 @@
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
 **Tech:** Python, Pandas, Scikit-learn, Jupyter  
-**Notebook:** [View Notebook](#)
+**Notebook:** [View Notebook](https://www.kaggle.com/code/rajaykumar12/house-price-predictions)
 
 ---
 
 ### 🚢 Titanic Survival Prediction  
 > Titanic ML competition using feature engineering and classification models.  
 **Tech:** Python, Pandas, Scikit-learn  
-**GitHub:** [Repo Link](#)
-
----
-
-### 🏦 Fintech Hackathon Project  
-> AI-powered finance management tool for smart investments.  
-**Tech:** React, Django REST, ML Models  
-**Status:** Submitted for shortlisting 🔍
+**Notebook:** [View Notebook](https://www.kaggle.com/code/rajaykumar12/titanic-solution)
 
 ---
 
 ### 🧾 To-Do List App  
 > Cross-platform to-do list with mobile + web versions, featuring custom reminders.  
-**Tech:** React, Django, SQLite  
-**GitHub:** [Repo Link](#)
+**Tech:** React, Django, SQLite
+**Github:**[View Project](https://github.com/Rajaykumar12/python-django-project/tree/main/todo))
+
+---
+
+### 🐾 Animal Database (C# Console App)  
+> A simple console-based application to manage animal data including adding, editing, searching, and deleting records.  
+**Tech:** C#, .NET, File Handling  
+**Features:**  
+- Add/Edit/Delete Animal Entries  
+- Search Animals by Name or Type  
+- Save/Load from a Text File  
+
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Animal_Database)
 
 ---
 
@@ -83,6 +88,45 @@
 > An academic project focusing on electricity generation using wind turbines.  
 **Tech:** Research + Electrical Design  
 **Presentation:** [Slides](#)
+
+---
+
+### ⛅ Weather App  
+> A sleek and simple weather web app that fetches real-time weather data based on user input using the OpenWeather API.  
+**Tech:** HTML, CSS, JavaScript, OpenWeatherMap API  
+**Features:**  
+- 🌍 Search weather by city name  
+- 🌡️ Displays temperature, humidity, and conditions  
+- 🕒 Real-time data updates  
+- 📱 Fully responsive UI  
+
+**GitHub:** [View Project](https://github.com/Rajaykumar12/WeatherApp)
+
+---
+
+### 🐦 Twitter QR Generator  
+> A web app that generates QR codes to link directly to Twitter accounts or hashtag searches — great for events, marketing, or easy sharing!  
+**Tech:** Next.js, React, QRCode.js, Tailwind CSS  
+**Features:**  
+- 🔗 Generate QR codes for Twitter handles or hashtags  
+- ✨ Dynamic preview with instant rendering  
+- 📱 Mobile-friendly UI  
+- 💾 Option to download QR image  
+
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter_qr_generator)
+
+---
+
+### 📝 Blog Website  
+> A full-stack blog application built with Django, featuring dynamic content, user-friendly design, and a built-in admin panel for easy post management.  
+**Tech:** Django, HTML, CSS, SQLite  
+**Features:**  
+- 🧑‍💻 Create, edit, and delete blog posts  
+- 🗂️ Categorized posts with tags  
+- 🧭 SEO-friendly URLs & pagination  
+- 🔒 Admin authentication and post moderation  
+
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Django_blog)
 
 ---
 
