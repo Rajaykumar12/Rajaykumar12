@@ -7,15 +7,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🔬 Currently Exploring: Data Science & Machine Learning
 
-- 🌱 Currently learning **Next.js**, **Machine Learning**, and **.NET**
-- 🔭 Working on a **Habit Tracker App** & **Music Streaming Web App**
-- 🤖 Exploring **AI agents** for stock trading
-- 💬 Ask me about **React, Django, or Spring Boot**
-- 🎯 Goal: Retire by 50 and build things that matter!
+- 📊 **Titanic Survival Prediction**  
+  Using feature engineering and classification models to improve prediction accuracy.  
+  _Tech:_ Python, pandas, scikit-learn  
 
----
+- 🏠 **House Price Prediction (Kaggle ML Competition)**  
+  Working on regression models to predict housing prices with exploratory data analysis (EDA).  
+  _Tech:_ Python, matplotlib, NumPy, sklearn  
+
+- 🤖 **AI Agent for Stock Market Prediction**  
+  Developing an intelligent assistant to aid stock investment decisions for day trading.  
+  _Tech:_ Python, ML models, financial data APIs (coming soon)  
+
+- 🧠 **Learning Advanced ML Concepts:**  
+  - Model evaluation & tuning  
+  - Feature selection techniques  
+  - Data preprocessing pipelines  
+  - Real-world use case deployment
 
 ## 🚀 Tech Stack
 
