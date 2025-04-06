@@ -7,25 +7,23 @@
 
 ---
 
-### 🔬 Currently Exploring: Data Science & Machine Learning
+## 👋 About Me
 
-- 📊 **Titanic Survival Prediction**  
-  Using feature engineering and classification models to improve prediction accuracy.  
-  _Tech:_ Python, pandas, scikit-learn  
+Hey there! I'm Ajay — an engineering student passionate about technology, development, and solving real-world problems through code.  
+I love exploring new frameworks, building full-stack projects, and diving into data to uncover insights with machine learning.  
 
-- 🏠 **House Price Prediction (Kaggle ML Competition)**  
-  Working on regression models to predict housing prices with exploratory data analysis (EDA).  
-  _Tech:_ Python, matplotlib, NumPy, sklearn  
+### 🚀 What I Do:
+- 💻 Build web & desktop apps using modern tools like React, Django, .NET, and Next.js  
+- 🤖 Explore data science & machine learning through hands-on projects and Kaggle competitions  
+- 🌐 Create dynamic websites & REST APIs  
+- 📚 Constantly learning and upgrading my skills  
 
-- 🤖 **AI Agent for Stock Market Prediction**  
-  Developing an intelligent assistant to aid stock investment decisions for day trading.  
-  _Tech:_ Python, ML models, financial data APIs (coming soon)  
+### 🌱 Currently Learning:
+- Next.js & Full-stack deployment  
+- Machine Learning & Data Science pipelines  
+- Building AI-powered tools for real-world applications  
 
-- 🧠 **Learning Advanced ML Concepts:**  
-  - Model evaluation & tuning  
-  - Feature selection techniques  
-  - Data preprocessing pipelines  
-  - Real-world use case deployment
+Let’s connect and build something awesome! 🚀
 
 ## 🚀 Tech Stack
 
@@ -38,7 +36,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![WSL](https://img.shields.io/badge/-WSL-4D4D4D?logo=windows&logoColor=white&style=for-the-badge)
@@ -147,8 +144,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12e&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12e&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -156,10 +153,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/r-ajay-kumar-ab8859289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rajaykumar12959@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
 </p>
@@ -167,3 +164,6 @@
 ---
 
 _Thanks for visiting! Let’s connect and build something awesome together 🚀_
+
+![My Profile](https://i.pinimg.com/originals/8c/1b/9d/8c1b9daf0d7e26fa03649b4906ec2fc4.png))
+
