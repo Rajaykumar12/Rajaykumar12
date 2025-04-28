@@ -132,6 +132,34 @@ Let’s connect and build something awesome! 🚀
 
 ---
 
+### 🎯 Twitter Sentiment Analysis
+> A machine learning project that analyzes Twitter data to classify tweets as positive or negative using Natural Language Processing and Logistic Regression.  
+**Tech:** Python, NLTK, Scikit-learn, Pandas  
+
+**Features:**
+- 📊 Processes 1.6M tweets from Sentiment140 dataset
+- 🔍 Text preprocessing with NLTK (stemming, stopwords removal)
+- 📈 TF-IDF vectorization for feature extraction
+- 🤖 Logistic Regression classification
+- 📋 ~79% accuracy on both training and test data
+- 💾 Model persistence using pickle for future predictions
+
+**Key Components:**
+- Custom text preprocessing pipeline
+- Porter Stemmer for word normalization
+- TF-IDF vectorization for text feature extraction
+- Logistic Regression model training
+- Model evaluation and persistence
+
+**Performance:**
+- Training Accuracy: 79%
+- Testing Accuracy: 79%
+- Balanced dataset with positive/negative samples
+
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter-Sentiment-Analysis)
+
+---
+
 ## 📜 Certifications
 
 | 🏅 Certification | 🏢 Issued By | 📅 Date | 🔗 Link |
