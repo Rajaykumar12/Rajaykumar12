@@ -7,10 +7,20 @@
 
 ---
 
+## Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [Certifications](#-certifications)
+- [GitHub Stats](#-github-stats)
+- [Connect with Me](#-connect-with-me)
+
+---
+
 ## 👋 About Me
 
 Hey there! I'm Ajay — an engineering student passionate about technology, development, and solving real-world problems through code.  
-I love exploring new frameworks, building full-stack projects, and diving into data to uncover insights with machine learning.  
+I love exploring new frameworks, building full-stack projects, and diving into data to uncover insights with machine learning.
 
 ### 🚀 What I Do:
 - 💻 Build web & desktop apps using modern tools like React, Django, .NET, and Next.js  
@@ -23,10 +33,13 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 - Machine Learning & Data Science pipelines  
 - Building AI-powered tools for real-world applications  
 
-Let’s connect and build something awesome! 🚀
+**Future Aspirations**: I aim to contribute to open-source projects and develop AI/ML tools that solve pressing societal issues.
+
+---
 
 ## 🚀 Tech Stack
 
+### Programming Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
@@ -36,9 +49,11 @@ Let’s connect and build something awesome! 🚀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![WSL](https://img.shields.io/badge/-WSL-4D4D4D?logo=windows&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -47,10 +62,10 @@ Let’s connect and build something awesome! 🚀
 ### 📱 Habit Tracker App  
 > A minimalist Android app to track daily habits with full customization features.  
 **Tech:** React Native, Tailwind, SQLite  
-**Status:** 🚧 In Progress
+**Status:** 🚧 In Progress  
+**Screenshots:** ![Screenshot](https://example.com/screenshot.png)
 
 ---
-
 
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
@@ -66,106 +81,34 @@ Let’s connect and build something awesome! 🚀
 
 ---
 
-### 🧾 To-Do List App  
-> Cross-platform to-do list with mobile + web versions, featuring custom reminders.  
-**Tech:** React, Django, SQLite
-> 
-**Github:**[View Project](https://github.com/Rajaykumar12/python-django-project/tree/main/todo))
-
----
-
-### 🐾 Animal Database (C# Console App)  
-> A simple console-based application to manage animal data including adding, editing, searching, and deleting records.  
-**Tech:** C#, .NET, File Handling  
-**Features:**  
-- Add/Edit/Delete Animal Entries  
-- Search Animals by Name or Type  
-- Save/Load from a Text File  
-
-**GitHub:** [View Project](https://github.com/Rajaykumar12/Animal_Database)
-
----
-
-### 🌱 Sustainable Wind Energy Project  
-> An academic project focusing on electricity generation using wind turbines.  
-**Tech:** Research + Electrical Design  
-**Presentation:** [Slides](#)
-
----
-
-### ⛅ Weather App  
-> A sleek and simple weather web app that fetches real-time weather data based on user input using the OpenWeather API.  
-**Tech:** HTML, CSS, JavaScript, OpenWeatherMap API  
-**Features:**  
-- 🌍 Search weather by city name  
-- 🌡️ Displays temperature, humidity, and conditions  
-- 🕒 Real-time data updates  
-- 📱 Fully responsive UI  
-
-**GitHub:** [View Project](https://github.com/Rajaykumar12/WeatherApp)
-
----
-
-### 🐦 Twitter QR Generator  
-> A web app that generates QR codes to link directly to Twitter accounts or hashtag searches — great for events, marketing, or easy sharing!  
-**Tech:** Next.js, React, QRCode.js, Tailwind CSS  
-**Features:**  
-- 🔗 Generate QR codes for Twitter handles or hashtags  
-- ✨ Dynamic preview with instant rendering  
-- 📱 Mobile-friendly UI  
-- 💾 Option to download QR image  
-
-**GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter_qr_generator)
-
----
-
 ### 📝 Blog Website  
 > A full-stack blog application built with Django, featuring dynamic content, user-friendly design, and a built-in admin panel for easy post management.  
 **Tech:** Django, HTML, CSS, SQLite  
-**Features:**  
-- 🧑‍💻 Create, edit, and delete blog posts  
-- 🗂️ Categorized posts with tags  
-- 🧭 SEO-friendly URLs & pagination  
-- 🔒 Admin authentication and post moderation  
-
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Django_blog)
 
 ---
 
-### 🎯 Twitter Sentiment Analysis
+### 🌦️ Weather App  
+> A sleek and simple weather web app that fetches real-time weather data based on user input using the OpenWeather API.  
+**Tech:** HTML, CSS, JavaScript, OpenWeatherMap API  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/WeatherApp)
+
+---
+
+### 🐦 Twitter Sentiment Analysis  
 > A machine learning project that analyzes Twitter data to classify tweets as positive or negative using Natural Language Processing and Logistic Regression.  
 **Tech:** Python, NLTK, Scikit-learn, Pandas  
-
-**Features:**
-- 📊 Processes 1.6M tweets from Sentiment140 dataset
-- 🔍 Text preprocessing with NLTK (stemming, stopwords removal)
-- 📈 TF-IDF vectorization for feature extraction
-- 🤖 Logistic Regression classification
-- 📋 ~79% accuracy on both training and test data
-- 💾 Model persistence using pickle for future predictions
-
-**Key Components:**
-- Custom text preprocessing pipeline
-- Porter Stemmer for word normalization
-- TF-IDF vectorization for text feature extraction
-- Logistic Regression model training
-- Model evaluation and persistence
-
-**Performance:**
-- Training Accuracy: 79%
-- Testing Accuracy: 79%
-- Balanced dataset with positive/negative samples
-
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter-Sentiment-Analysis)
 
 ---
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏢 Issued By | 📅 Date | 🔗 Link |
-|------------------|-------------|---------|--------|
-| ✅ C# Certified Developer | FreeCodeCamp | Aug 2024 | [View](https://www.freecodecamp.org/certification/RAJAYKUMAR/foundational-c-sharp-with-microsoft) |
-| ✅ Java Fundamentals | Infosys Springboard | Dec 2024 | [View](#)
+### Programming Languages
+| 🏅 Certification             | 🏠 Issued By          | 📅 Date   | 🔗 Link                                |
+|------------------------------|----------------------|-----------|---------------------------------------|
+| ✅ C# Certified Developer    | FreeCodeCamp        | Aug 2024  | [View](https://www.freecodecamp.org/certification/RAJAYKUMAR/foundational-c-sharp-with-microsoft) |
+| ✅ Java Fundamentals          | Infosys Springboard | Dec 2024  | [View](#)                             |
 
 ---
 
@@ -192,6 +135,3 @@ Let’s connect and build something awesome! 🚀
 ---
 
 _Thanks for visiting! Let’s connect and build something awesome together 🚀_
-
-![My Profile](https://i.pinimg.com/originals/8c/1b/9d/8c1b9daf0d7e26fa03649b4906ec2fc4.png)
-
