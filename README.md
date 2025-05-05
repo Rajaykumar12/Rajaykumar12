@@ -102,6 +102,17 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ---
 
+### 🎥 Movie Recommendation System  
+> A machine learning project that recommends movies based on user preferences using collaborative filtering techniques.  
+**Tech:** Python, Pandas, Scikit-learn, Surprise Library  
+**Features:**  
+- 📊 Collaborative filtering for personalized recommendations  
+- 🧠 User-item matrix for advanced predictions  
+- 🖥️ Deployed with Flask for an interactive web interface  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Movie_Recommendation_System)
+
+---
+
 ## 📜 Certifications
 
 ### Programming Languages
