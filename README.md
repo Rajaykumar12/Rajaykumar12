@@ -57,16 +57,6 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ---
 
-## 🛠️ Featured Projects
-
-### 📱 Habit Tracker App  
-> A minimalist Android app to track daily habits with full customization features.  
-**Tech:** React Native, Tailwind, SQLite  
-**Status:** 🚧 In Progress  
-**Screenshots:** ![Screenshot](https://example.com/screenshot.png)
-
----
-
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
 **Tech:** Python, Pandas, Scikit-learn, Jupyter  
@@ -110,6 +100,42 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 - 🧠 User-item matrix for advanced predictions  
 - 🖥️ Deployed with Flask for an interactive web interface  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Movie_Recommendation_System)
+
+---
+
+### ⚖️ Imbalanced Data Analysis  
+> A machine learning project focusing on handling imbalanced datasets for improved model performance.  
+**Tech:** Python, Scikit-learn, Imbalanced-learn  
+**Features:**  
+- 📊 Techniques to balance datasets using SMOTE, ADASYN, and Random Undersampling  
+- 🧠 Model evaluation with precision, recall, and F1-score metrics  
+- 📈 Data visualization to show class distributions and model effects  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Imbalanced_data)
+
+---
+
+### 🤖 RedactlyAi  
+> A cutting-edge AI-powered tool designed for automatic redaction of sensitive information from documents and text data.  
+**Tech:** Python, Natural Language Processing (NLP), Transformers, Flask  
+**Features:**  
+- 🔒 Automatic detection and redaction of Personally Identifiable Information (PII)  
+- 🧠 Utilizes advanced NLP models for named entity recognition  
+- 📄 Supports multiple document formats such as PDF, Word, and plain text  
+- 🌐 Web-based interface for easy interaction and use  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/RedactlyAi)
+
+---
+
+### 🐦 Twitter QR Generator  
+> A web app to generate QR codes for Twitter tweets.  
+**Tech:** Next.js, Tailwind CSS, qrcode.react  
+**Features:**  
+- 🖊️ Create QR codes for tweets with custom messages  
+- 🏷️ Add hashtags (comma-separated) for better categorization  
+- 🙋 Mention a Twitter handle (optional, only one is allowed)  
+- 🖼️ Generate shareable QR codes linking to Twitter's tweet composer  
+- 📲 Mobile-friendly and responsive design for seamless user experience  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter_qr_generator)
 
 ---
 
