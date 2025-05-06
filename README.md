@@ -37,23 +37,87 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Skills
 
-### Programming Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+### 👨‍💻 Programming Languages
+- 🐍 Python, ☕ Java, 🧱 C#, 💻 C, 🌐 JavaScript, 🐘 PHP, 🖥️ C++, 🛠️ ARM Assembly
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+### 🌐 Web Development
+- 🖌️ HTML, 🎨 CSS, ⚛️ React, 🌬️ Tailwind CSS, 🧪 Next.js  
+- 🔙 Backend: 🌿 Django, ☘️ Spring Boot, 🐘 PHP with 🐬 MySQL, 🟩 Node.js, ⚡ FastAPI, 🚂 Express.js
+
+### 🗄️ Databases
+- 🐬 MySQL, 📄 SQLite, 🐘 PostgreSQL (basic), 🍃 MongoDB (beginner)
+
+### 🤖 AI / Machine Learning
+- 📊 NumPy, 📈 pandas, 📉 Matplotlib, 🧠 scikit-learn  
+- 🛠️ Feature engineering, 🧪 model training (Kaggle), 📊 data visualization
+
+### ⚙️ DevOps & Tools
+- 🔧 Git & 🐱 GitHub, 💻 WSL, 🌍 GitHub Pages, 🧰 VS Code, 📮 Postman
+
+### 🧰 Platforms & Frameworks
+- 🧩 Bubble (no-code), 🧪 Google Colab, 📒 Jupyter Notebooks, 🔥 Firebase (basic)
+
+### 🤖 LLM & NLP Tools
+- ✍️ Prompt engineering, 🚀 Groq Cloud, 🦙 Llama API, 🧠 Ollama  
+- 🕵️ Presidio, 🧬 spaCy, 🧾 PyMuPDF, 🔎 Tesseract OCR, 🤗 Hugging Face (basic)
+
+### 🛡️ Cybersecurity
+- 🕶️ CTF participant, 🐚 binary exploitation, 🕳️ reverse engineering, 🌐 web challenges
+
+### 📱 Mobile App Development
+- 📲 React Native (beginner – habit tracker app)
+
+### 🌍 Languages
+- 🇯🇵 Japanese (beginner)
+
+---
+
+## 🧰 Tools & Platforms
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=flat&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+
+![Groq](https://img.shields.io/badge/-Groq-FF6B6B?style=flat&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-444444?style=flat&logo=cloudflare&logoColor=white)
+![Presidio](https://img.shields.io/badge/-Presidio-4285F4?style=flat&logo=microsoft&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/-Tesseract-3A6EBA?style=flat&logo=tesseract&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/-PyMuPDF-006699?style=flat&logo=adobe-acrobat-reader&logoColor=white)
+
+![Bubble](https://img.shields.io/badge/-Bubble-1C1C1C?style=flat&logo=bubble&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
