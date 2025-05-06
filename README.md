@@ -44,7 +44,7 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ### 🌐 Web Development
 - 🖌️ HTML, 🎨 CSS, ⚛️ React, 🌬️ Tailwind CSS, 🧪 Next.js  
-- 🔙 Backend: 🌿 Django, ☘️ Spring Boot, 🐘 PHP with 🐬 MySQL, 🟩 Node.js, ⚡ FastAPI, 🚂 Express.js
+- 🔙 Backend: 🌿 Django, 🐘 PHP with 🐬 MySQL, 🟩 Node.js, ⚡ FastAPI, 🚂 Express.js
 
 ### 🗄️ Databases
 - 🐬 MySQL, 📄 SQLite, 🐘 PostgreSQL (basic), 🍃 MongoDB (beginner)
@@ -86,7 +86,6 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
