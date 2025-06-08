@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Ajay</h1>
+<h1 align="center">
+  Hi there 👋, I'm Ajay
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle" alt="Wave"/>
+</h1>
 <h3 align="center">Engineer | Web Dev Enthusiast | ML Explorer</h3>
 
 <p align="center">
@@ -19,6 +22,10 @@
 
 ## 👋 About Me
 
+<p align="right">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="130" alt="Developer Animation"/>
+</p>
+
 Hey there! I'm Ajay — an engineering student passionate about technology, development, and solving real-world problems through code.  
 I love exploring new frameworks, building full-stack projects, and diving into data to uncover insights with machine learning.
 
@@ -38,6 +45,10 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 ---
 
 ## 🚀 Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding Animation"/>
+</p>
 
 ### 👨‍💻 Programming Languages
 - 🐍 Python, ☕ Java, 🧱 C#, 💻 C, 🌐 JavaScript, 🐘 PHP, 🖥️ C++, 🛠️ ARM Assembly
@@ -75,6 +86,12 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 ---
 
 ## 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" alt="Tech Animation"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="Python Animation"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" alt="React Animation"/>
+</p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -120,6 +137,13 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ---
 
+## 🚀 Featured Projects
+
+Each featured project is built with a focus on code quality, documentation, and usability.  
+<p align="center">
+  <img src="https://media.giphy.com/media/8rFoy7YdT3K6K/giphy.gif" width="280" alt="Projects Animation"/>
+</p>
+
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
 **Tech:** Python, Pandas, Scikit-learn, Jupyter  
@@ -136,6 +160,7 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ### 📝 Blog Website  
 > A full-stack blog application built with Django, featuring dynamic content, user-friendly design, and a built-in admin panel for easy post management.  
+<img src="https://github.com/Rajaykumar12/Django_blog/raw/main/demo.gif" width="400" alt="Blog Demo"/>  
 **Tech:** Django, HTML, CSS, SQLite  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Django_blog)
 
@@ -143,6 +168,7 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 
 ### 🌦️ Weather App  
 > A sleek and simple weather web app that fetches real-time weather data based on user input using the OpenWeather API.  
+<img src="https://github.com/Rajaykumar12/WeatherApp/raw/main/demo.gif" width="350" alt="Weather App Demo"/>  
 **Tech:** HTML, CSS, JavaScript, OpenWeatherMap API  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/WeatherApp)
 
@@ -218,6 +244,8 @@ I love exploring new frameworks, building full-stack projects, and diving into d
   <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Rajaykumar12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="120" alt="Rocket Animation"/>
 </p>
 
 ---
@@ -231,6 +259,7 @@ I love exploring new frameworks, building full-stack projects, and diving into d
   <a href="mailto:rajaykumar12959@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
+  <img src="https://media.giphy.com/media/l4KibWpBGWchSqCRy/giphy.gif" width="60" alt="Handshake Animation"/>
 </p>
 
 ---
