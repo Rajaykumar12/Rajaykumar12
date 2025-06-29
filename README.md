@@ -140,9 +140,6 @@ I love exploring new frameworks, building full-stack projects, and diving into d
 ## 🚀 Featured Projects
 
 Each featured project is built with a focus on code quality, documentation, and usability.  
-<p align="center">
-  <img src="https://media.giphy.com/media/8rFoy7YdT3K6K/giphy.gif" width="280" alt="Projects Animation"/>
-</p>
 
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
