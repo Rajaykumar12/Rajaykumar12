@@ -241,8 +241,6 @@ Each featured project is built with a focus on code quality, documentation, and 
   <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Rajaykumar12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="120" alt="Rocket Animation"/>
 </p>
 
 ---
@@ -256,7 +254,6 @@ Each featured project is built with a focus on code quality, documentation, and 
   <a href="mailto:rajaykumar12959@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <img src="https://media.giphy.com/media/l4KibWpBGWchSqCRy/giphy.gif" width="60" alt="Handshake Animation"/>
 </p>
 
 ---
