@@ -143,10 +143,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🧠 House Price Prediction (ML Competition)  
 > Kaggle competition project using regression techniques to predict house prices.  
-**Features:**  
-- 📈 Advanced feature engineering to improve model performance  
-- 🧠 Multiple regression techniques for accuracy  
-- 📉 Hands-on exploration of real-world data  
 **Tech:** Python, Pandas, Scikit-learn, Jupyter  
 **Notebook:** [View Notebook](https://www.kaggle.com/code/rajaykumar12/house-price-predictions)
 
@@ -154,10 +150,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🚢 Titanic Survival Prediction  
 > Titanic ML competition using feature engineering and classification models.  
-**Features:**  
-- 🧪 Comprehensive data preprocessing and feature engineering  
-- 🛠️ Application of logistic regression and decision tree models  
-- 📊 Visualization of survival predictions and insights  
 **Tech:** Python, Pandas, Scikit-learn  
 **Notebook:** [View Notebook](https://www.kaggle.com/code/rajaykumar12/titanic-solution)
 
@@ -165,10 +157,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 📝 Blog Website  
 > A full-stack blog application built with Django, featuring dynamic content, user-friendly design, and a built-in admin panel for easy post management.  
-**Features:**  
-- 🖌️ Dynamic post creation and management system  
-- 🔒 Secure user authentication and role-based access  
-- 📱 Responsive design for seamless user experience  
 <img src="https://github.com/Rajaykumar12/Django_blog/raw/main/demo.gif" width="400" alt="Blog Demo"/>  
 **Tech:** Django, HTML, CSS, SQLite  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Django_blog)
@@ -177,10 +165,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🌦️ Weather App  
 > A sleek and simple weather web app that fetches real-time weather data based on user input using the OpenWeather API.  
-**Features:**  
-- 🌍 Fetches accurate real-time data from OpenWeather API  
-- 📱 Mobile-friendly and responsive design  
-- 🔄 Interactive user interface for seamless experience  
 <img src="https://github.com/Rajaykumar12/WeatherApp/raw/main/demo.gif" width="350" alt="Weather App Demo"/>  
 **Tech:** HTML, CSS, JavaScript, OpenWeatherMap API  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/WeatherApp)
@@ -189,10 +173,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🖥️ Portfolio Website  
 > A personal portfolio website to showcase skills, experience, and projects.  
-**Features:**  
-- 👨‍💻 Interactive design showcasing projects dynamically  
-- 🔧 Easy-to-navigate sections for smooth browsing  
-- 🌐 Optimized for performance and responsiveness  
 **Tech:** JavaScript, CSS, HTML  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Portfolio_webiste)
 
@@ -200,10 +180,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🏎️ F1 Predictor  
 > A machine learning project to predict Formula 1 race results using historical data.  
-**Features:**  
-- 🧠 Exploration of F1 race data for patterns  
-- 📈 Model training and evaluation for accurate predictions  
-- 📊 Visualization of insights and results  
 **Tech:** Jupyter Notebook, Python  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/F1_predictor)
 
@@ -211,10 +187,6 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🐦 Twitter Sentiment Analysis  
 > A machine learning project that analyzes Twitter data to classify tweets as positive or negative using Natural Language Processing and Logistic Regression.  
-**Features:**  
-- 🧠 Named entity recognition for sentiment classification  
-- 📊 Visualization of sentiment trends over time  
-- 🚀 Scalable model design for large datasets  
 **Tech:** Python, NLTK, Scikit-learn, Pandas  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter-Sentiment-Analysis)
 
@@ -222,47 +194,47 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ### 🎥 Movie Recommendation System  
 > A machine learning project that recommends movies based on user preferences using collaborative filtering techniques.  
+**Tech:** Python, Pandas, Scikit-learn, Surprise Library  
 **Features:**  
 - 📊 Collaborative filtering for personalized recommendations  
 - 🧠 User-item matrix for advanced predictions  
-- 🖥️ Interactive web interface with Flask for recommendations  
-**Tech:** Python, Pandas, Scikit-learn, Surprise Library  
+- 🖥️ Deployed with Flask for an interactive web interface  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Movie_Recommendation_System)
 
 ---
 
 ### ⚖️ Imbalanced Data Analysis  
 > A machine learning project focusing on handling imbalanced datasets for improved model performance.  
+**Tech:** Python, Scikit-learn, Imbalanced-learn  
 **Features:**  
 - 📊 Techniques to balance datasets using SMOTE, ADASYN, and Random Undersampling  
 - 🧠 Model evaluation with precision, recall, and F1-score metrics  
 - 📈 Data visualization to show class distributions and model effects  
-**Tech:** Python, Scikit-learn, Imbalanced-learn  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Imbalanced_data)
 
 ---
 
 ### 🤖 RedactlyAi  
 > A cutting-edge AI-powered tool designed for automatic redaction of sensitive information from documents and text data.  
+**Tech:** Python, Natural Language Processing (NLP), Transformers, Flask  
 **Features:**  
 - 🔒 Automatic detection and redaction of Personally Identifiable Information (PII)  
 - 🧠 Utilizes advanced NLP models for named entity recognition  
 - 📄 Supports multiple document formats such as PDF, Word, and plain text  
 - 🌐 Web-based interface for easy interaction and use  
-**Tech:** Python, Natural Language Processing (NLP), Transformers, Flask  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/RedactlyAi)
 
 ---
 
 ### 🐦 Twitter QR Generator  
 > A web app to generate QR codes for Twitter tweets.  
+**Tech:** Next.js, Tailwind CSS, qrcode.react  
 **Features:**  
 - 🖊️ Create QR codes for tweets with custom messages  
 - 🏷️ Add hashtags (comma-separated) for better categorization  
 - 🙋 Mention a Twitter handle (optional, only one is allowed)  
 - 🖼️ Generate shareable QR codes linking to Twitter's tweet composer  
 - 📲 Mobile-friendly and responsive design for seamless user experience  
-**Tech:** Next.js, Tailwind CSS, qrcode.react  
 **GitHub:** [View Project](https://github.com/Rajaykumar12/Twitter_qr_generator)
 
 ---
