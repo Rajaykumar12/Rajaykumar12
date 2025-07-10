@@ -171,6 +171,20 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 ---
 
+### 🖥️ Portfolio Website  
+> A personal portfolio website to showcase skills, experience, and projects.  
+**Tech:** JavaScript, CSS, HTML  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/Portfolio_webiste)
+
+---
+
+### 🏎️ F1 Predictor  
+> A machine learning project to predict Formula 1 race results using historical data.  
+**Tech:** Jupyter Notebook, Python  
+**GitHub:** [View Project](https://github.com/Rajaykumar12/F1_predictor)
+
+---
+
 ### 🐦 Twitter Sentiment Analysis  
 > A machine learning project that analyzes Twitter data to classify tweets as positive or negative using Natural Language Processing and Logistic Regression.  
 **Tech:** Python, NLTK, Scikit-learn, Pandas  
