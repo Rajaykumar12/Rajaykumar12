@@ -253,9 +253,8 @@ Each featured project is built with a focus on code quality, documentation, and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Rajaykumar12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" 
+  
 
 ---
 
