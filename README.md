@@ -78,16 +78,15 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Intelligent Cache** | 🧠 **RL vs Traditional Caching**<br>Benchmarking Actor-Critic RL agents against LRU and XGBoost for cache replacement. | `Python` `RL` `PyTorch` `XGBoost` | [GitHub](https://github.com/Rajaykumar12/Cache_replacement) |
+| **Monte Carlo Portfolio** | 📈 **Quant Finance Strategy**<br>Optimizing Indian stock portfolios using 100k+ Monte Carlo simulations & Modern Portfolio Theory. | `Python` `NumPy` `Pandas` `yfinance` | [GitHub](https://github.com/Rajaykumar12/monte-carlo-portfolio-optimization) |
 | **Sentiment Analysis** | 📊 **ML Pipeline & API**<br>End-to-end sentiment classification of social media comments using Scikit-Learn pipelines and FastAPI. | `Python` `Scikit-Learn` `FastAPI` `NLP` | [GitHub](https://github.com/Rajaykumar12/Youtube_sentimental_analysis) |
 | **TCP Messenger** | 🔒 **Encrypted Chat System**<br>High-performance, E2E encrypted chat built with Java 21 Virtual Threads (Project Loom) for scalability. | `Java 21` `AES` `Virtual Threads` | [GitHub](https://github.com/Rajaykumar12/tcp-messenger) |
 | **RedactlyAi** | 🛡️ **AI-Powered PII Redaction**<br>Automatically detects and redacts sensitive info from PDFs and text using Transformers. | `Python` `NLP` `Transformers` `Flask` | [GitHub](https://github.com/Rajaykumar12/RedactlyAi) |
 | **Twitter QR** | 🐦 **Tweet to QR Generator**<br>Generate shareable QR codes that link directly to Twitter's composer with pre-filled hashtags. | `Next.js` `Tailwind` `React` | [GitHub](https://github.com/Rajaykumar12/Twitter_qr_generator) |
-| **Blog App** | 📝 **Full Stack Blog**<br>Dynamic blog with admin panel, user authentication, and rich text editing. | `Django` `HTML/CSS` `SQLite` | [GitHub](https://github.com/Rajaykumar12/Django_blog) |
 | **Movie Recs** | 🎥 **Recommendation Engine**<br>Collaborative filtering system suggesting movies based on user-item matrices. | `Python` `Surprise Lib` `Flask` | [GitHub](https://github.com/Rajaykumar12/Movie_Recommendation_System) |
 | **F1 Predictor** | 🏎️ **Race Result Predictor**<br>Predicting Formula 1 outcomes using historical race data. | `Jupyter` `Pandas` `Scikit-Learn` | [GitHub](https://github.com/Rajaykumar12/F1_predictor) |
 
 > *Check out my [Kaggle Profile](https://kaggle.com/rajaykumar12) for my Housing Price & Titanic Survival competition notebooks.*
-
 ---
 
 ## 📜 Certifications
