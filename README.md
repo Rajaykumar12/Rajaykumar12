@@ -89,10 +89,17 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 
 ## 📜 Certifications
 
-| Certification | Issued By | Date |
-| :--- | :--- | :--- |
-| **Foundational C# with Microsoft** | FreeCodeCamp | Aug 2024 |
-| **Java Fundamentals** | Infosys Springboard | Dec 2024 |
+## 📜 Certifications
+
+| 🏅 Certification | 🏠 Issued By | 📅 Date | 🔗 Link |
+| :--- | :--- | :--- | :--- |
+| **Google Cloud Certifications** | Google Cloud | 2025 | [View Credly Profile](https://www.credly.com/users/r-ajay-kumar.0e20326f) |
+| **Microsoft Learn Achievements** | Microsoft | 2025 | [View Profile](https://learn.microsoft.com/en-us/users/rajaykumar-5098/achievements?tab=tab-challenges) |
+| **Complete Tensorflow Course** | GeeksforGeeks | Jul 2025 | [View Credential](https://www.geeksforgeeks.org/certificate/e073aeb872ad1cf2ac5e72a48ab54454?utm_source=socials&utm_medium=cc_link) |
+| **Learn JavaScript** | Coursera | May 2025 | [View Credential](https://www.coursera.org/account/accomplishments/verify/827U0LQKT2NR?authType=google&completeMode=enforceSsoV2) |
+| **Intermediate Machine Learning** | Kaggle | Apr 2025 | [View Credential](https://www.kaggle.com/learn/certification/rajaykumar12/intermediate-machine-learning) |
+| **Foundational C# with Microsoft** | FreeCodeCamp | Aug 2024 | [View Credential](https://freecodecamp.org/certification/RAJAYKUMAR/foundational-c-sharp-with-microsoft) |
+| **Java Fundamentals** | Infosys Springboard | Dec 2024 | [View Credential](#) |
 
 ---
 
