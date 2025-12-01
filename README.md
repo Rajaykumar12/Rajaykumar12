@@ -99,14 +99,14 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajaykumar12&show_icons=true&theme=radical&hide_rank=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaykumar12&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaykumar12&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
