@@ -41,36 +41,36 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
   <tr>
     <td align="center" width="90"><strong>Languages</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp,js,php,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>Frontend</strong></td>
-    <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" />
+      <img src="https://skillicons.dev/icons?i=c,cs,python,java,cpp,php,js,html,css" />
     </td>
   </tr>
   <tr>
     <td align="center" width="90"><strong>Backend</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,mysql,mongodb,sqlite,firebase" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><strong>AI / ML</strong></td>
+    <td align="center" width="90"><strong>Data & ML</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,anaconda" />
-      <br/><em>Tools: HuggingFace, Groq, Ollama, spaCy, Tesseract</em>
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda" />
+      <br/>
+      <em>Pandas • NumPy • Matplotlib • Seaborn • spaCy • NLTK • Jupyter</em>
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><strong>DevOps</strong></td>
+    <td align="center" width="90"><strong>Frontend</strong></td>
+    <td align="center" width="600">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><strong>Tools</strong></td>
     <td align="center" width="600">
       <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Projects
