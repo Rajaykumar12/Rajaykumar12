@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ajay;Engineer+%7C+Web+Dev;ML+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF72F&width=435&lines=Hi+there%2C+I'm+Ajay;Engineering+Student;Passionate+about+ML)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF72F&width=435&lines=Hi+there%2C+I'm+Ajay;Engineering+Student;Passionate+about+ML)](https://git.io/typing-svg)
+  <a href="https://git.io/stroked-readme">
+    <img src="https://komarev.com/ghpvc/?username=Rajaykumar12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </div>
 
 <div align="center">
