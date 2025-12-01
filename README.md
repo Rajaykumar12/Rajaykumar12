@@ -53,7 +53,7 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
   <tr>
     <td align="center" width="90"><strong>Backend</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,mysql,postgres,mongodb,sqlite,firebase" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,mysql,mongodb,sqlite,firebase" />
     </td>
   </tr>
   <tr>
