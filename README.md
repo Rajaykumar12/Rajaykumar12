@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/stroked-readme">
-    <img src="https://komarev.com/ghpvc/?username=Rajaykumar12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF72F&width=435&lines=Hi+there%2C+I'm+Ajay;Engineering+Student;Passionate+about+ML)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
