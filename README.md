@@ -106,14 +106,15 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajaykumar12&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajaykumar12&theme=radical" alt="Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" height="180" alt="Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaykumar12&theme=radical" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rajaykumar12&theme=radical" alt="Streak" />
 </div>
 
 ---
