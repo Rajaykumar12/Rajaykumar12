@@ -78,7 +78,7 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Intelligent Cache** | 🧠 **RL vs Traditional Caching**<br>Benchmarking Actor-Critic RL agents against LRU and XGBoost for cache replacement. | `Python` `RL` `PyTorch` `XGBoost` | [GitHub](https://github.com/Rajaykumar12/Cache_replacement) |
-| **Monte Carlo Portfolio** | 📈 **Quant Finance Strategy**<br>Optimizing Indian stock portfolios using 100k+ Monte Carlo simulations & Modern Portfolio Theory. | `Python` `NumPy` `Pandas` `yfinance` | [GitHub](https://github.com/Rajaykumar12/monte-carlo-portfolio-optimization) |
+| **Monte Carlo Portfolio** | 📈 **Quant Finance Strategy**<br>Optimizing Indian stock portfolios using 100k+ Monte Carlo simulations & Modern Portfolio Theory. | `Python` `NumPy` `Pandas` `yfinance` | [GitHub](https://github.com/Rajaykumar12/Monte-carlo-simulation) |
 | **Sentiment Analysis** | 📊 **ML Pipeline & API**<br>End-to-end sentiment classification of social media comments using Scikit-Learn pipelines and FastAPI. | `Python` `Scikit-Learn` `FastAPI` `NLP` | [GitHub](https://github.com/Rajaykumar12/Youtube_sentimental_analysis) |
 | **TCP Messenger** | 🔒 **Encrypted Chat System**<br>High-performance, E2E encrypted chat built with Java 21 Virtual Threads (Project Loom) for scalability. | `Java 21` `AES` `Virtual Threads` | [GitHub](https://github.com/Rajaykumar12/tcp-messenger) |
 | **RedactlyAi** | 🛡️ **AI-Powered PII Redaction**<br>Automatically detects and redacts sensitive info from PDFs and text using Transformers. | `Python` `NLP` `Transformers` `Flask` | [GitHub](https://github.com/Rajaykumar12/RedactlyAi) |
