@@ -102,22 +102,9 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 | **Java Fundamentals** | Infosys Springboard | Dec 2024 | [View Credential](#) |
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajaykumar12&theme=radical" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaykumar12&layout=compact&theme=radical" height="180" alt="Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rajaykumar12&theme=radical" alt="Streak" />
-</div>
-
----
-<div align="center">
-  <i>Let's build something awesome together.</i> 🚀
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajaykumar12&theme=github_dark" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajaykumar12&theme=github_dark&exclude={exclude}" height="180" alt="Languages" />
 </div>
