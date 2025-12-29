@@ -41,19 +41,19 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
   <tr>
     <td align="center" width="90"><strong>Languages</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=c,cs,python,java,cpp,php,js,html,css" />
+      <img src="https://skillicons.dev/icons?i=c,cs,python,java,cpp,js,html,css" />
     </td>
   </tr>
   <tr>
     <td align="center" width="90"><strong>Backend</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
     </td>
   </tr>
   <tr>
     <td align="center" width="90"><strong>Data & ML</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,anaconda" />
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,anaconda" />
       <br/>
       <em>Pandas • NumPy • Matplotlib • Seaborn • spaCy • NLTK • Jupyter</em>
     </td>
@@ -61,7 +61,7 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
   <tr>
     <td align="center" width="90"><strong>Frontend</strong></td>
     <td align="center" width="600">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
     </td>
   </tr>
   <tr>
