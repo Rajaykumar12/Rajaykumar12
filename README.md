@@ -24,7 +24,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an **Engineering Student** passionate about solving real-world problems through code. I bridge the gap between full-stack development and data science, constantly exploring new frameworks to build smarter applications.
 
@@ -35,7 +35,7 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
   <tr>
@@ -73,7 +73,7 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 </table>
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -89,9 +89,9 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 > *Check out my [Kaggle Profile](https://kaggle.com/rajaykumar12) for my Housing Price & Titanic Survival competition notebooks.*
 ---
 
-## 📜 Certifications
+##  Certifications
 
-| 🏅 Certification | 🏠 Issued By | 📅 Date | 🔗 Link |
+|  Certification |  Issued By |  Date |  Link |
 | :--- | :--- | :--- | :--- |
 | **Google Cloud Certifications** | Google Cloud | 2025 | [View Credly Profile](https://www.credly.com/users/r-ajay-kumar.0e20326f) |
 | **Microsoft Learn Achievements** | Microsoft | 2025 | [View Profile](https://learn.microsoft.com/en-us/users/rajaykumar-5098/achievements?tab=tab-challenges) |
@@ -102,9 +102,15 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 | **Java Fundamentals** | Infosys Springboard | Dec 2024 | [View Credential](#) |
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajaykumar12&theme=github_dark" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajaykumar12&theme=github_dark&exclude={exclude}" height="180" alt="Languages" />
+</div>
+<br/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CF72F&center=true&width=435&lines=Live+long+and+prosper;Mischief+Managed)](https://git.io/typing-svg)
+
 </div>
