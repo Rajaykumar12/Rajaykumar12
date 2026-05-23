@@ -31,7 +31,7 @@ I am a developer specialized in **Machine Learning and AI Engineering**, current
 - **I’m currently working on:** Continuous workspace snapshotting (Rewind) and AI inference optimization.
 - **I’m currently focused on:** LoRA/QLoRA, KIVI 2-bit quantization, and SYCL/oneAPI performance.
 - **Future Goal:** Advancing Open Source AI tools and contributing to high-impact research.
-- **Languages:** English, Japanese (JLPT N4).
+- **Languages:** English, Japanese (JLPT N5).
 
 ---
 
