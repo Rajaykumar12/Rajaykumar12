@@ -79,34 +79,20 @@ I'm an **Engineering Student** passionate about solving real-world problems thro
 | :--- | :--- | :--- | :--- |
 | **anIsland** | A modern C++ OpenGL application featuring procedurally generated terrain, dynamic lighting, and advanced visual effects. | `C`, OpenGL, Modular Arch | [GitHub](https://github.com/Rajaykumar12/anIsland) |
 | **terminus** | Hybrid Web3 full-stack app: cryptographically secure Digital Time Capsule via Ethereum Smart Contracts. | `JavaScript`, Ethereum, Ganache | [GitHub](https://github.com/Rajaykumar12/terminus) |
-| **HostelOPS** |  | `JavaScript` | [GitHub](https://github.com/Rajaykumar12/HostelOPS) |
 | **Finance_trader** | Autonomous trading system using real-time data from 5 sources & 6 AI-driven engines; paper trading via Alpaca. | `Python`, AI, Alpaca | [GitHub](https://github.com/Rajaykumar12/Finance_trader) |
-| **QCNN_Deepfake** |  | `Python` | [GitHub](https://github.com/Rajaykumar12/QCNN_Deepfake) |
 | **scem-evMan** | Event hosting and management platform. | `TypeScript` | [GitHub](https://github.com/Rajaykumar12/scem-evMan) |
 | **ringo** | Open-source cross-platform AI chat app supporting text and voice, built with modern OSS. | `TypeScript`, AI, Multi-platform | [GitHub](https://github.com/Rajaykumar12/ringo) |
-| **claw-code** | Better Harness Tools, rewrite in Rust for real productivity. | Rust | [GitHub](https://github.com/Rajaykumar12/claw-code) |
 | **llama.cpp** | LLM inference in C/C++. | `C++`, LLM | [GitHub](https://github.com/Rajaykumar12/llama.cpp) |
-| **deepchem** | Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology. | Deep Learning | [GitHub](https://github.com/Rajaykumar12/deepchem) |
-| **apidash** | Beautiful AI-powered cross-platform API client (Flutter) – lightweight Postman/Insomnia alternative. | Flutter, API Client, AI | [GitHub](https://github.com/Rajaykumar12/apidash) |
-| **metaflow** | Build, Manage, and Deploy AI/ML Systems. | MLOps | [GitHub](https://github.com/Rajaykumar12/metaflow) |
-| **hive** | Agent development framework that evolves. | AI Agents | [GitHub](https://github.com/Rajaykumar12/hive) |
-| **launcpad-attendance** |  | `TypeScript` | [GitHub](https://github.com/Rajaykumar12/launcpad-attendance) |
 | **intel_kivi_hybrid** | KIVI algorithm on Intel XPU via SYCL/oneAPI, integrates with HuggingFace Transformers. | `Python`, HuggingFace, SYCL | [GitHub](https://github.com/Rajaykumar12/intel_kivi_hybrid) |
 | **F1_predictor** | ML system for predicting F1 race outcomes using historical data, FastAPI, XGBoost. | `Jupyter Notebook` `FastAPI` `XGBoost` | [GitHub](https://github.com/Rajaykumar12/F1_predictor) |
-| **data-engineering-zoomcamp** | Free 9-week course on building production-ready data pipelines. | Data Engineering | [GitHub](https://github.com/Rajaykumar12/data-engineering-zoomcamp) |
 | **sosc-website-v2** |  | `Astro` | [GitHub](https://github.com/Rajaykumar12/sosc-website-v2) |
 | **Cache_replacement** | Compares FIFO, LRU, RL, XGBoost cache policies; reports hit rates against optimal baseline. | `Python`, RL, XGBoost | [GitHub](https://github.com/Rajaykumar12/Cache_replacement) |
-| **EarnEasy** |  | `JavaScript` | [GitHub](https://github.com/Rajaykumar12/EarnEasy) |
-| **Rajaykumar12** | Config files for GitHub profile. |  | [GitHub](https://github.com/Rajaykumar12/Rajaykumar12) |
+| **EarnEasy** | ECommerce application for Students | `JavaScript` | [GitHub](https://github.com/Rajaykumar12/EarnEasy) |
 | **Monte-carlo-simulation** | Modern Portfolio Theory via Monte Carlo for Indian equity markets. | `Jupyter Notebook` | [GitHub](https://github.com/Rajaykumar12/Monte-carlo-simulation) |
-| **LLM_translation** |  | `Jupyter Notebook` | [GitHub](https://github.com/Rajaykumar12/LLM_translation) |
+| **LLM_translation** | Kannada Finetuning practise | `Jupyter Notebook` | [GitHub](https://github.com/Rajaykumar12/LLM_translation) |
 | **tcp-messenger** | E2E encrypted TCP chat app using Java 21+ Virtual Threads (Project Loom). | `Java` | [GitHub](https://github.com/Rajaykumar12/tcp-messenger) |
 | **CNN_ImageClassification** | CNN on CIFAR-10, built with TensorFlow and Keras. | `Python` `TensorFlow` | [GitHub](https://github.com/Rajaykumar12/CNN_ImageClassification) |
 | **Comment_analysis** | Sentiment analysis of social media comments; FastAPI web API & ready-to-use notebooks. | `Jupyter Notebook` `FastAPI` | [GitHub](https://github.com/Rajaykumar12/Comment_analysis) |
-| **stock-markets-analytics-zoomcamp** | Course Materials for Analytics in Stock Markets Zoomcamp. |  | [GitHub](https://github.com/Rajaykumar12/stock-markets-analytics-zoomcamp) |
-| **MickTrace** | Modern Python logging library for production — async-native, cloud-ready, structured logging. | Python, Cloud | [GitHub](https://github.com/Rajaykumar12/MickTrace) |
-| **ai-humanizers** | AI Text Humanizer – make machine writing sound human. | NLP | [GitHub](https://github.com/Rajaykumar12/ai-humanizers) |
-| **dswell** | Daemon-based scheduled file deletion utility. | System, Automation | [GitHub](https://github.com/Rajaykumar12/dswell) |
 
 > To see more projects, visit your GitHub: [View all repositories](https://github.com/Rajaykumar12?tab=repositories&page=2)
 
