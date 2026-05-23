@@ -24,14 +24,14 @@
 
 <br/>
 
-##  About Me
+## About Me
 
-I'm an **Engineering Student** passionate about solving real-world problems through code. I bridge the gap between full-stack development and data science, constantly exploring new frameworks to build impactful solutions.
+I am a developer specialized in **Machine Learning and AI Engineering**, currently exploring the intersection of high-performance computing and LLM optimization. My work focuses on building scalable AI systems using RAG, fine-tuning, and hardware-level optimizations on Intel architectures.
 
--  **I’m currently working on:** Full-stack deployment & ML Pipelines
--  **I’m currently learning:** Next.js, Advanced NLP, and Cloud Architecture
--  **Future Goal:** Contributing to Open Source AI tools that solve societal issues.
--  **Languages:** English, Japanese (Beginner 🇯🇵)
+- **I’m currently working on:** Continuous workspace snapshotting (Rewind) and AI inference optimization.
+- **I’m currently focused on:** LoRA/QLoRA, KIVI 2-bit quantization, and SYCL/oneAPI performance.
+- **Future Goal:** Advancing Open Source AI tools and contributing to high-impact research.
+- **Languages:** English, Japanese (JLPT N4).
 
 ---
 
