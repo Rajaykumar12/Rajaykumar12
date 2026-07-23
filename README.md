@@ -75,7 +75,6 @@ I am a developer specialized in **Machine Learning and AI Engineering**, current
 
 ## GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajaykumar12&theme=github_dark" alt="Stats" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajaykumar12&theme=github-compact" alt="Contribution Graph" width="48%" />
 
 </div>
